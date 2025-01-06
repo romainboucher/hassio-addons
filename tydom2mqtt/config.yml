@@ -3,7 +3,7 @@
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
 image: ghcr.io/tydom2mqtt/tydom2mqtt
-version: feature-183
+version: sha256-83f604c5e88df49d20d6efc41f6defdeff5611acfe04b763849ea4ea99b7adfa 
 slug: tydom2mqtt
 description: Deltadore Tydom to MQTT Bridge
 arch:
